@@ -1,6 +1,6 @@
 # Java Crypto Book
 
-<img src="https://github.com/erkindilekci/JavaCryptoBook/assets/109282517/1be6c046-4c57-4b0e-b528-2519d79c9878" align="right" width="100">
+<img src="https://github.com/erkindilekci/JavaCryptoBook/assets/109282517/1be6c046-4c57-4b0e-b528-2519d79c9878" align="right" width="80">
 
 - XML
 - Retrofit
